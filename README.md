@@ -221,3 +221,6 @@ Blocks That Matter is available as a full free version with all features and upd
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-16 06:55:54 UTC
